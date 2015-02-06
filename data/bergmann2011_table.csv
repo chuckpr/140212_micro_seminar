@@ -1,4 +1,4 @@
-Phylotype,percent of sequences,Frequency,Closest matching isolate,GenBank,percent iidentity,AT,ASAG,ASAS,BF,AF,CF,DF,GP,PD,SACF,TF
+Phylotype,percent of sequences,Frequency,Closest matching isolate,GenBank,percent identity,AT,ASAG,ASAS,BF,AF,CF,DF,GP,PD,SACF,TF
 PT00001,30.01,89,Chthoniobacter flavus,AY388649,91,4,22,5,24,10,31,27,45,1,23,23
 PT0002,19.18,77,Chthoniobacter flavus,AY388649,91,0,7,0,0,5,23,7,29,0,4,45
 PT06005,6.69,73,Chthoniobacter flavus,AY388649,90,0,6,2,9,5,5,5,9,0,10,6
